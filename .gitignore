@@ -1,0 +1,14 @@
+**pyc
+CIFAR10/**
+CELEBA/**
+CELEBAHQ/**
+__pycache__/**
+.DS_Store
+notebooks/.ipynb_checkpoints/**
+notebooks/test_train/**
+notebooks/__pycache__/**
+demo/output/**
+pro_gan/__pycache__/**
+test/__pycache__/**
+test/test_train/**
+test/.DS_Store
